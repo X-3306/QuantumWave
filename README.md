@@ -4,8 +4,8 @@ that program uses the fourth-order Runge-Kutta method to solve the Schrödinger 
 
 # how to run
 
-C COMPILER - gcc -o QuantumWave QuantumWave.c
+C COMPILER ---> gcc -o QuantumWave QuantumWave.c
 
-RUN - ./QuantumWave file timesteps
+RUN ---> ./QuantumWave file timesteps
 
 file is the name of the file that contains the potential data and timesteps is the number of timesteps for the simulation.
