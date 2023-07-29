@@ -8,10 +8,10 @@ C COMPILER ---> gcc -o QuantumWave QuantumWave.c
 
 RUN ---> ./QuantumWave file timesteps
 
------------------------------------------------------|
 example --> ./QuantumWave test.dat 300 > answer.txt  |
 -----------------------------------------------------|
-+
+
+
 -------------------------------------
 ### https://youtu.be/1-FmUKs6yxY ###
 -------------------------------------
