@@ -1,6 +1,6 @@
-*/
 
-/***************************
+/*
+***************************
  * MADE BY X-3306 
  * NOTES
  *
@@ -18,14 +18,17 @@
  *  The output is the wavefunction at each step, which can
  *  then be used to calculate expectation values such as
  *  energy, momentum, etc.
- ***************************/
+ ***************************
+ */
 
+#include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include <complex.h>
 #include <string.h>
 #include <errno.h>
+#include <complex.h>
 
 // define constants
 #define h 6.626e-34
