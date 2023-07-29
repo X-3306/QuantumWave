@@ -13,7 +13,7 @@ example --> ./QuantumWave test.dat 300 > answer.txt  |
 
 
 ----------------------------------------------
-### tutorial https://youtu.be/1-FmUKs6yxY ###
+### tutorial [https://youtu.be/1-FmUKs6yxY](https://youtu.be/1-FmUKs6yxY) ###
 ----------------------------------------------
 
 This program models the behavior of a single quantum particle, such as an electron, placed in a one-dimensional potential field. By numerically solving the Schrödinger equation, it allows calculating the wave function describing the quantum states of the particle.
