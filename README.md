@@ -14,8 +14,11 @@ file is the name of the file that contains the potential data and timesteps is t
 ### https://youtu.be/1-FmUKs6yxY ###
 -------------------------------------
 ^
+
 |
+
 |
+
 This program models the behavior of a single quantum particle, such as an electron, placed in a one-dimensional potential field. By numerically solving the Schrödinger equation, it allows calculating the wave function describing the quantum states of the particle.
 
 The test presented examined the quantum state of an electron trapped in a finite potential well ranging from x=0 to x=0.5. The wave function exhibits a maximum probability of finding the particle at the center of the well, while its amplitude decreases with distance from it. This is the expected form of the wave function for the ground state of a particle in such a potential.
