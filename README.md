@@ -8,8 +8,10 @@ C COMPILER ---> gcc -o QuantumWave QuantumWave.c
 
 RUN ---> ./QuantumWave file timesteps
 
-file is the name of the file that contains the potential data and timesteps is the number of timesteps for the simulation.
-
+-----------------------------------------------------|
+example --> ./QuantumWave test.dat 300 > answer.txt  |
+-----------------------------------------------------|
++
 -------------------------------------
 ### https://youtu.be/1-FmUKs6yxY ###
 -------------------------------------
